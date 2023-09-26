@@ -6,9 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "HE Sudao (何苏道) - Homepage"
+description              : "I am currently a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at Hong Kong University of Science and Technology. 
+I am fortunate to work with Prof. Shenghan ZHANG since Sept. 2023. I received my Ph.D. in Automation Engineering at Nanjing University of Aeronautics and Astronautics (NUAA), where I was fortunate to be advised by Prof. Fuyang CHEN. 
+During 2023, I was also a Postdoctral Research Associate at The Hong Kong Polytechnic University, working with Prof. Yi-Qing NI. 
+Prior to this, I obtained my bachelor’s degree from NUAA. "
+repository               : "Suede5298/hesudao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +24,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Sudao HE"
+  avatar           : "images/staff.png"
+  bio              : "Hong Kong University of Science and Technology"
+  location         : "Hong Kong SAR, CHINA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ"
+  email            : "hesudao@ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

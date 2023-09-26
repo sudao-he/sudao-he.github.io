@@ -44,6 +44,6 @@ Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for 
 </div>
 
 
-## 📚 Digital Twin
+## 💻 Digital Twin
 - **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.246)
 - Wentao Liu, **Sudao He**, Jianpeng Mou, Ting Xue, Hongtian Chen, Weili Xiong. [Digital twins-based process monitoring for wastewater treatment processes](https://www.sciencedirect.com/science/article/pii/S0951832023003307). *Reliability Engineering & System Safety*, 2023: 109416. (JCR Q1, Published, IF: **7.247**)

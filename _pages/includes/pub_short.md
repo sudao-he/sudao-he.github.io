@@ -10,7 +10,7 @@ My full paper list is shown at [my personal homepage](https://suede5298.github.i
 #### 👄 ML with Unreliable Data
 - Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for distributed sensor networks: an end-to-end strategy based on collaborative learning](https://ieeexplore.ieee.org/abstract/document/9915322), *IEEE Sensors Journal*, vol. 22, no. 22, pp. 21795-21805, 15 Nov.15, 2022. (JCR Q1, IF: 4.325)
 
-#### 🧑‍🎨 Digital Twin
+#### 💻 Digital Twin
 - **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.246)
 - Wentao Liu, **Sudao He**, Jianpeng Mou, Ting Xue, Hongtian Chen, Weili Xiong. [Digital twins-based process monitoring for wastewater treatment processes](https://www.sciencedirect.com/science/article/pii/S0951832023003307). *Reliability Engineering & System Safety*, 2023: 109416. (JCR Q1,IF: **7.247**)
 

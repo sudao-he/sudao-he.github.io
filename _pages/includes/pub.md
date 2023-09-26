@@ -21,9 +21,27 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/neuro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Sudao He**, Fuyang Chen, Bin Jiang. [Physical intrusion monitoring via local-global network and deep isolation forest based on heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0925231221001867). *Neurocomputing*, vol. 441, pp. 25-35, 2021 (JCR Q2, IF: **5.779**)
+- Summarize.
+- **Academic Impact**: To be updated.
+- **Industry Impact**: To be updated.
+</div>
+</div>
 
 ## 👄 ML with Unreliable Data
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/js.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for distributed sensor networks: an end-to-end strategy based on collaborative learning](https://ieeexplore.ieee.org/abstract/document/9915322), *IEEE Sensors Journal*, vol. 22, no. 22, pp. 21795-21805, 15 Nov.15, 2022. (JCR Q1, IF: 4.325)
+- Summarize.
+- **Academic Impact**: To be updated.
+- **Industry Impact**: To be updated.
+</div>
+</div>
 
 
 ## 📚 Digital Twin

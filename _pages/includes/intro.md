@@ -1,4 +1,4 @@
-I am currently a Postdoctoral Fellow in the [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) <img src='./images/ust.png' style='width: 6em;'>. 
+I am currently a Postdoctoral Fellow in the [Department of Civil and Environmental Engineering](https://www.ce.ust.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) <img src='./images/ust.png' style='height: 2em;'>. 
 I am fortunate to work with Prof. [Shenghan ZHANG](https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan) since Sept. 2023. 
 
 I received my Ph.D. in Automation Engineering at [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) (NUAA)<img src='./images/nuaa.png' style='height: 2em;'>, where I was fortunate to be advised by Prof. Fuyang CHEN. 

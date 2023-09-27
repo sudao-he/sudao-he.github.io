@@ -8,15 +8,15 @@
 # Site Settings
 title                    : "HE Sudao (何苏道) - Homepage"
 description              : "Postdoctoral Fellow in the Department of Civil and Environmental Engineering at Hong Kong University of Science and Technology. Focusing on Smart City, Structural Health Monitoring and Fault Diagnosis"
-repository               : "suede5298.github.io/hesudao.github.io/"
+repository               : "hesudao.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  HFS7vE5btzUP6hcmItRAbuZiHEfmkAkAEuF0odkHfG8 # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  75AF5C56FBE65AB261230AF4B29BAC4 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author

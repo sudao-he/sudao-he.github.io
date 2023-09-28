@@ -1,5 +1,5 @@
 
-# 💻 Selected Research Papers
+# 💻 Publications
 
 My full paper list is shown at [my personal homepage](https://suede5298.github.io/hesudao.github.io/) and [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ) .
 

@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Research Papers
 ## 🎙 ML with Incomplete Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/tnnls.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

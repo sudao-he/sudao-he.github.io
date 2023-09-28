@@ -1,6 +1,6 @@
 
 # 📝 Selected Research Papers
-## 🎙 ML with Incomplete Data
+## 🔶 ML with Incomplete Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/tnnls.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -31,7 +31,7 @@
 </div>
 </div>
 
-## 👄 ML with Unreliable Data
+## 🚩 ML with Unreliable Data
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/js.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,8 +42,3 @@ Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for 
 - **Industry Impact**: To be updated.
 </div>
 </div>
-
-
-## 💻 Digital Twin
-- **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.246)
-- Wentao Liu, **Sudao He**, Jianpeng Mou, Ting Xue, Hongtian Chen, Weili Xiong. [Digital twins-based process monitoring for wastewater treatment processes](https://www.sciencedirect.com/science/article/pii/S0951832023003307). *Reliability Engineering & System Safety*, 2023: 109416. (JCR Q1, Published, IF: **7.247**)

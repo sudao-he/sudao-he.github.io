@@ -13,5 +13,6 @@
 </div>
 
 # 🤝 Experience
-- *2023.03 - 2023.08*, National Rail Transit Electrification and Automation Engineering Technology Research Center (Hong Kong Branch), The Hong Kong Polytechnic University, Hong Kong SAR.
+- *2023.03 - 2023.08*, **Postdoctoral Research Associate** at National Rail Transit Electrification and Automation Engineering Technology Research Center (Hong Kong Branch), The Hong Kong Polytechnic University, Hong Kong SAR.
 
+- *Till now*, I serve as a **reviewer** in many journals, including *IEEE Transactions on Neural Networks and Learning Systems*, *IEEE Transactions on Instrumentation and Measurement*, *Journal of Vibration and Control*, *IEEE/CAA Journal of Automatica Sinica* and *ISA Transcations*.

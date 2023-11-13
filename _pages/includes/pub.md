@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/tnnls.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sudao He**, Fuyang Chen, Hongtian Chen. [A latent representation generalizing network for domain generalization in cross-scenario monitoring](https://ieeexplore.ieee.org/abstract/document/10195224), *IEEE Transactions on Neural Networks and Learning Systems*. (JCR Q1, IF: **14.255**) [**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699859773068&u=%2Fscholar%3Fq%3Dinfo%3AumFFoC6IjMwJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D5%26hl%3Dzh-CN)
+**Sudao He**, Fuyang Chen, Hongtian Chen. [A latent representation generalizing network for domain generalization in cross-scenario monitoring](https://ieeexplore.ieee.org/abstract/document/10195224), *IEEE Transactions on Neural Networks and Learning Systems*. (JCR Q1, IF: **14.255**) ([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699859773068&u=%2Fscholar%3Fq%3Dinfo%3AumFFoC6IjMwJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D5%26hl%3Dzh-CN))
 - **LRGN**: A framework for Cross-scenario Monitoring without data of concerned events (such as faults, defect and physical intrusion) in a new scenario.
 - **Academic Impact**: Efficient domain generalization with agnostic embedding 
 space by estimating domain shifts of vibration signals by a sequential-

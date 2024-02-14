@@ -36,7 +36,7 @@ layers to  learn concept-specific posterior knowledge.
 
 ## 🚩 ML with Unreliable Data
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/tim2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/tim_scheme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sudao He**, Wai Kei Ao, Yi-Qing Ni. [A Unified Label Noise-Tolerant Framework of Deep Learning-based Fault Diagnosis via A Bounded Neural Network](https://github.com/sudao-he/Bounded_Neural_Network), *IEEE Transactions on Instrumentation and Measurement*, 2024. (JCR Q1, IF: **5.6**)([**code**](https://github.com/sudao-he/Bounded_Neural_Network))

@@ -16,7 +16,7 @@ variational generative adversarial network.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/tim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sudao He**, Fuyang Chen, Ning Xu, Hongtian Chen. [Online monitoring for non-stationary operation via a collaborative neural network](https://ieeexplore.ieee.org/abstract/document/9756373). *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-12, 2022. (JCR Q1, IF: **5.6**)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860000183&u=%2Fscholar%3Fq%3Dinfo%3ALR5BCqh9o_4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN))
+**Sudao He**, Fuyang Chen, Ning Xu, Hongtian Chen. [Online monitoring for non-stationary operation via a collaborative neural network](https://ieeexplore.ieee.org/abstract/document/9756373). *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-12, 2022. (JCR Q1, Published, IF: **5.6**)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860000183&u=%2Fscholar%3Fq%3Dinfo%3ALR5BCqh9o_4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN))
 - **CoNN**: A Collaborative Neural Network for non-stationary operation monitoring through online adaptation with theoretical guaranteed convergence.
 - **Academic Impact**: Concept-sharing feature layers for adaptation to prior knowledge changes and  concept-exclusive classification 
 layers to  learn concept-specific posterior knowledge.
@@ -36,19 +36,6 @@ layers to  learn concept-specific posterior knowledge.
 
 ## 🚩 ML with Unreliable Data
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/tim_scheme.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Sudao He**, Wai Kei Ao, Yi-Qing Ni. [A Unified Label Noise-Tolerant Framework of Deep Learning-based Fault Diagnosis via A Bounded Neural Network](https://github.com/sudao-he/Bounded_Neural_Network), *IEEE Transactions on Instrumentation and Measurement*, 2024. (JCR Q1, IF: **5.6**)([**code**](https://github.com/sudao-he/Bounded_Neural_Network))
--  A unified framework for label-noise fault diagnosis of mechanical system.
-- **Academic Impact**: Theoretical guarantee and enhancement of label noise tolerance.
-- **Industry Impact**:
-  - Applicable to different deep learning models.
-  - Implementation of multiple variants and SOTA methods.
-  - Real-field tests on automatic train control antenna beam of high-speed train.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/js.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,4 +45,3 @@ Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for 
 - **Industry Impact**: An accuracy of 88.33 is achieved when 40% of the labels are not correct using real-field data from Nanjing Metro Line S7. It can be extended to an unsupervised learning task.
 </div>
 </div>
-

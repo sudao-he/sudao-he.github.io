@@ -16,3 +16,16 @@
 - *2023.03 - 2023.08*, **Postdoctoral Research Associate** at National Rail Transit Electrification and Automation Engineering Technology Research Center (Hong Kong Branch), The Hong Kong Polytechnic University, Hong Kong SAR.
 
 - *Till now*, I serve as a **reviewer** in many journals, including *IEEE Transactions on Neural Networks and Learning Systems*, *IEEE Transactions on Instrumentation and Measurement*, *Journal of Vibration and Control*, *IEEE/CAA Journal of Automatica Sinica* and *ISA Transcations*.
+
+# 🌎 Service
+
+**Journal Editorship**
+
+- Associate Editor: [**IEEE Transactions on Instrumentation and Measurement**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (2024-)
+
+
+ **Journal Reviewer**
+- *IEEE Transactions on Neural Networks and Learning Systems*
+- *IEEE Transactions on Instrumentation and Measurement*
+- *IEEE/CAA Journal of Automatica Sinica*
+- *Journal of Vibration and Control*

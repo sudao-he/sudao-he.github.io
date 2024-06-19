@@ -29,3 +29,4 @@
 - *IEEE Transactions on Instrumentation and Measurement*
 - *IEEE/CAA Journal of Automatica Sinica*
 - *Journal of Vibration and Control*
+- *ISA Transactions*

@@ -5,9 +5,11 @@ My full paper list is shown at [my Google Scholar](https://scholar.google.com/ci
 
 #### 🔶 Sensing
 - **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.1)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860089168&u=%2Fscholar%3Fq%3Dinfo%3ADIPCGyPPaeYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D3%26hl%3Dzh-CN))
+
 #### 🚩 Inspection
 - **Sudao HE**, Shenghan ZHANG, Dhanada MISHRA, Matthew Ming-Fai YUEN. [A graph learning approach for automatic subsurface defects segmentation in building façade using RGB and infrared images](https://www.ndt.net/search/docs.php3?id=29567). Proceedings of the 10th European Workshop on Structural Health Monitoring (*EWSHM 2024*), June 10-13, 2024 in Potsdam, Germany. *e-Journal of Nondestructive Testing*. 
 - **Sudao HE**, Gang ZHAO, Jun CHEN, Shenghan ZHANG, Dhanada MISHRA, Matthew Ming-Fai YUEN. [Weakly-Aligned Cross-Modal Learning Framework for Subsurface Defect Segmentation on Building Facades Using Unmanned Aerial Vehicles](http://dx.doi.org/10.2139/ssrn.4845688). Available at SSRN。
+
 #### 🚄 Monitoring
 
 - **Sudao He**, Fuyang Chen, Hongtian Chen. [A latent representation generalizing network for domain generalization in cross-scenario monitoring](https://ieeexplore.ieee.org/abstract/document/10195224), *IEEE Transactions on Neural Networks and Learning Systems*. (JCR Q1, IF: **10.4**) ([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699859773068&u=%2Fscholar%3Fq%3Dinfo%3AumFFoC6IjMwJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D5%26hl%3Dzh-CN))

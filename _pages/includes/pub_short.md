@@ -1,18 +1,19 @@
 
 # 💻 Publications
 
-My full paper list is shown at [my personal homepage](https://suede5298.github.io/hesudao.github.io/) and [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ) .
+My full paper list is shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ) .
 
-#### 🔶 ML with Incomplete Data
+#### 🔶 Sensing
+- **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.1)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860089168&u=%2Fscholar%3Fq%3Dinfo%3ADIPCGyPPaeYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D3%26hl%3Dzh-CN))
+#### 🚩 Inspection
+- **Sudao HE**, Shenghan ZHANG, Dhanada MISHRA, Matthew Ming-Fai YUEN. [A graph learning approach for automatic subsurface defects segmentation in building façade using RGB and infrared images](https://www.ndt.net/search/docs.php3?id=29567). Proceedings of the 10th European Workshop on Structural Health Monitoring (*EWSHM 2024*), June 10-13, 2024 in Potsdam, Germany. *e-Journal of Nondestructive Testing*. 
+- **Sudao HE**, Gang ZHAO, Jun CHEN, Shenghan ZHANG, Dhanada MISHRA, Matthew Ming-Fai YUEN. [Weakly-Aligned Cross-Modal Learning Framework for Subsurface Defect Segmentation on Building Facades Using Unmanned Aerial Vehicles](http://dx.doi.org/10.2139/ssrn.4845688). Available at SSRN。
+#### 🚄 Monitoring
+
 - **Sudao He**, Fuyang Chen, Hongtian Chen. [A latent representation generalizing network for domain generalization in cross-scenario monitoring](https://ieeexplore.ieee.org/abstract/document/10195224), *IEEE Transactions on Neural Networks and Learning Systems*. (JCR Q1, IF: **10.4**) ([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699859773068&u=%2Fscholar%3Fq%3Dinfo%3AumFFoC6IjMwJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D5%26hl%3Dzh-CN))
 - **Sudao He**, Fuyang Chen, Ning Xu, Hongtian Chen. [Online monitoring for non-stationary operation via a collaborative neural network](https://ieeexplore.ieee.org/abstract/document/9756373). *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-12, 2022. (JCR Q1, IF: **5.6**) ([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860000183&u=%2Fscholar%3Fq%3Dinfo%3ALR5BCqh9o_4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN))
 - **Sudao He**, Fuyang Chen, Bin Jiang. [Physical intrusion monitoring via local-global network and deep isolation forest based on heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0925231221001867). *Neurocomputing*, vol. 441, pp. 25-35, 2021 (JCR Q2, IF: **6**)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860041374&u=%2Fscholar%3Fq%3Dinfo%3ArjuE8Rm2RicJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D1%26hl%3Dzh-CN))
-
-#### 🚩 ML with Unreliable Data
 - **Sudao He**, Wai Kei Ao, Yi-Qing Ni. [A Unified Label Noise-Tolerant Framework of Deep Learning-based Fault Diagnosis via A Bounded Neural Network](https://github.com/sudao-he/Bounded_Neural_Network), *IEEE Transactions on Instrumentation and Measurement*, 2024. (JCR Q1, IF: **5.6**)([**code**](https://github.com/sudao-he/Bounded_Neural_Network))
 - Fuyang Chen, **Sudao He**, Yiwei Li, Hongtian Chen. [Data-driven monitoring for distributed sensor networks: an end-to-end strategy based on collaborative learning](https://ieeexplore.ieee.org/abstract/document/9915322), *IEEE Sensors Journal*, vol. 22, no. 22, pp. 21795-21805, 15 Nov.15, 2022. (JCR Q1, IF: 4.3)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860131468&u=%2Fscholar%3Fq%3Dinfo%3AXes_Ogjk7mkJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D2%26hl%3Dzh-CN))
-
-#### 🚄 Digital Twin
-- **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*. (JCR Q1, IF: 4.1)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860089168&u=%2Fscholar%3Fq%3Dinfo%3ADIPCGyPPaeYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D3%26hl%3Dzh-CN))
 - Wentao Liu, **Sudao He**, Jianpeng Mou, Ting Xue, Hongtian Chen, Weili Xiong. [Digital twins-based process monitoring for wastewater treatment processes](https://www.sciencedirect.com/science/article/pii/S0951832023003307). *Reliability Engineering & System Safety*, 2023: 109416. (JCR Q1,IF: **8.1**)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860157106&u=%2Fscholar%3Fq%3Dinfo%3AxY14RwB2dMgJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D4%26hl%3Dzh-CN))
 

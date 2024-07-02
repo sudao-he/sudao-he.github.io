@@ -30,3 +30,4 @@
 - *IEEE/CAA Journal of Automatica Sinica*
 - *Journal of Vibration and Control*
 - *ISA Transactions*
+- *IEEE Transactions on Industrial Informatics*

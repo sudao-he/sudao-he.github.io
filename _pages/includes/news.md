@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 😁 I have been honored with the title of Outstanding Reviewer for *IEEE TIM*.
 - *2024.12*: 🎉 Our work has been accepted for publication in *Automation in Construction*.
 - *2024.06*: 😁 I will exhibit my work with Prof. Zhang, Dr. Mishra and Prof. Yuen on subsurface defect segmentation in EWSHM 2024.
 - *2024.06*: 🎊 I will serve as **Associate Editor** for [**IEEE Transactions on Instrumentation and Measurement**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).

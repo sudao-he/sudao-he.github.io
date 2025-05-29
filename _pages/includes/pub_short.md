@@ -1,10 +1,11 @@
 
 # 💻 Publications
 
-My full paper list is shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ) .
+My full paper list is shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=3jbGRAYAAAAJ). Different research topics are highlighted using 🔶 Sensing,  🚩 Inspection, 🚄 Monitoring
 
-#### 🔶 Sensing
-- **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*, 2023, 360(12): 8096-8117. (JCR Q1, IF: 4.1)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860089168&u=%2Fscholar%3Fq%3Dinfo%3ADIPCGyPPaeYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D3%26hl%3Dzh-CN))
+
+#### Journal Papers
+1. **Sudao He**, Fuyang Chen, Ning Xu. [High-speed train localization algorithm via cooperative multi-classifier network using distributed heterogeneous signals](https://www.sciencedirect.com/science/article/pii/S0016003223003861), *Journal of the Franklin Institute*, 2023, 360(12): 8096-8117. (JCR Q1, IF: 4.1)([**cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&btnG=#d=gs_cit&t=1699860089168&u=%2Fscholar%3Fq%3Dinfo%3ADIPCGyPPaeYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D3%26hl%3Dzh-CN))
 
 #### 🚩 Inspection
 - **Sudao HE**, Shenghan ZHANG, Dhanada MISHRA, Matthew Ming-Fai YUEN. [A graph learning approach for automatic subsurface defects segmentation in building façade using RGB and infrared images](https://www.ndt.net/search/docs.php3?id=29567). Proceedings of the 10th European Workshop on Structural Health Monitoring (*EWSHM 2024*), June 10-13, 2024 in Potsdam, Germany. *e-Journal of Nondestructive Testing*. 

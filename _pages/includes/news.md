@@ -1,6 +1,9 @@
 # 🔥 News
+- *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published *Automation in Construction*.
+- *2025.02*: 🎉 One work collaborated with Tongji University on steel fatigue cracks detection 
+using geometric computer vision technology has been published in *Structural Control and Health Monitoring*.
 - *2025.01*: 😁 I have been honored with the title of Outstanding Reviewer for *IEEE TIM*.
-- *2024.12*: 🎉 Our work has been accepted for publication in *Automation in Construction*.
+- *2024.12*: 🎉 **Weakly-aligned Cross-modal Learning Framework** for subsurface defect segmentation on building façades has been accepted for publication in *Automation in Construction*.
 - *2024.06*: 😁 I will exhibit my work with Prof. Zhang, Dr. Mishra and Prof. Yuen on subsurface defect segmentation in EWSHM 2024.
 - *2024.06*: 🎊 I will serve as **Associate Editor** for [**IEEE Transactions on Instrumentation and Measurement**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 - *2024.02*: 🎉 My paper collaborated with Dr. AO Wai Kei and Prof. NI Yi-Qing 

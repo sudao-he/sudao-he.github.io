@@ -26,9 +26,11 @@
 
 
  **Journal Reviewer**
-- *IEEE Transactions on Neural Networks and Learning Systems*
-- *IEEE Transactions on Instrumentation and Measurement*
-- *IEEE/CAA Journal of Automatica Sinica*
+- *Journal of Computing in Civil Engineering*
 - *Journal of Vibration and Control*
 - *ISA Transactions*
 - *IEEE Transactions on Industrial Informatics*
+- *IEEE Transactions on Automation Science and Engineering*
+- *IEEE Transactions on Neural Networks and Learning Systems*
+- *IEEE Transactions on Instrumentation and Measurement*
+- *IEEE/CAA Journal of Automatica Sinica*

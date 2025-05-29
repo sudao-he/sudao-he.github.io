@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published *Automation in Construction*.
+- *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published in *Automation in Construction*.
 - *2025.02*: 🎉 One work collaborated with Tongji University on steel fatigue cracks detection 
 using geometric computer vision technology has been published in *Structural Control and Health Monitoring*.
 - *2025.01*: 😁 I have been honored with the title of **Outstanding Reviewer for *IEEE TIM***.

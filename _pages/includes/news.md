@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.06*: 🎊 Prof Shenghan Zhang presented our recent work **UHGAN** for bottom-up structure-level damage assessment on ICOSSAR'25. 
+- *2025.06*: 🎊 I present my recent work **DMPN** for trustworthy structural damage assessment by fusing heterogeneous data on ICOSSAR'25.
 - *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published in *Automation in Construction*.
 - *2025.02*: 🎉 One work collaborated with Tongji University on steel fatigue cracks detection 
 using geometric computer vision technology has been published in *Structural Control and Health Monitoring*.

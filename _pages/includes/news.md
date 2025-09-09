@@ -1,7 +1,7 @@
 # 🔥 News
-- *2025.09*: 😁 I will chair a special session  in [**EWSHM 2026**](https://www.ewshm2026.com/) with Dr. Hanqing Zhang, Prof. Shenghan Zhang, Dr. Alice Cicirello and Prof. Hae Young Noh. Welcome to join us in Toulouse (France).
+- *2025.09*: 😁 I will chair a special session at [**EWSHM 2026**](https://www.ewshm2026.com/) alongside Dr. Hanqing Zhang, Prof. Shenghan Zhang, Dr. Alice Cicirello, and Prof. Hae Young Noh. We warmly invite you to join us in Toulouse, France.
   <br> ([**SS 11**: AI-powered structural sensing and health monitoring for civil engineering structures](https://www.conftool.pro/ewshm2026/index.php?page=index#menu))
-- *2025.08*: 🎉 I will serve as one of the Technical Committee in [**ICMIE 2025**](https://www.icmie.org/). Welcome to join us in Tai Cang.
+- *2025.08*: 🎉 I am honored to serve as a member of the Technical Committee for [**ICMIE 2025**](https://www.icmie.org/). Welcome to join us in Tai Cang (China).
 - *2025.06*: 🎊 Prof Shenghan Zhang presented our recent work **UHGAN** for bottom-up structure-level damage assessment on ICOSSAR'25. 
 - *2025.06*: 🎊 I present my recent work **DMPN** for trustworthy structural damage assessment by fusing heterogeneous data on ICOSSAR'25.
 - *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published in *Automation in Construction*.

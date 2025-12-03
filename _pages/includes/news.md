@@ -1,5 +1,9 @@
 # 🔥 News
-- *2025.09*: 😁 I will chair a special session at [**EWSHM 2026**](https://www.ewshm2026.com/) alongside Dr. Hanqing Zhang, Prof. Shenghan Zhang, Dr. Alice Cicirello, and Prof. Hae Young Noh. We warmly invite you to join us in Toulouse, France.
+- *2025.12*: 🎉 **Layered Bilateral Feature Fusion Network** on efficient RGB-IR fusion for building facade inspection has been published in *Advanced Engineering Informatics*.
+- *2025.11*: 🎉 I have been awarded the **Best Oral Presentation** at [RCAE-2025](https://www.rcae.net/index.html).
+- *2025.10*: 😁 I will chair a special session at [**EWSHM 2026**](https://www.ewshm2026.com/) alongside Dr. Yifu Lan, Prof. Abdollah Malekjafarian, Prof. Yong Xia, and Prof. Eleni Chatzi. We warmly invite you to join us in Toulouse, France.
+  <br> ([**SS 17**: Mobile-sensing prognostics and health management of transportation infrastructure](https://www.ewshm2026.com/special-sessions-ewshm-2026/#SS17))
+- *2025.09*: 😁 I will chair a special session at [**EWSHM 2026**](https://www.ewshm2026.com/) alongside Dr. Hanqing Zhang, Prof. Shenghan Zhang, Dr. Alice Cicirello, and Prof. Hae Young Noh. 
   <br> ([**SS 11**: AI-powered structural sensing and health monitoring for civil engineering structures](https://www.conftool.pro/ewshm2026/index.php?page=index#menu))
 - *2025.08*: 🎉 I am honored to serve as a member of the Technical Committee for [**ICMIE 2025**](https://www.icmie.org/). Welcome to join us in Tai Cang (China).
 - *2025.06*: 🎊 Prof Shenghan Zhang presented our recent work **UHGAN** for bottom-up structure-level damage assessment on ICOSSAR'25. 

@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.01*: 🎊 I'm deeply honored to receive the **Outstanding Associate Editor for *IEEE TIM***.
+- *2026.01*: 😁 I'm deeply honored to receive the **Outstanding Reviewer for *IEEE TIM***.
 - *2025.12*: 🎉 **Layered Bilateral Feature Fusion Network** on efficient RGB-IR fusion for building facade inspection has been published in *Advanced Engineering Informatics*.
 - *2025.11*: 🎉 I have been awarded the **Best Oral Presentation** at [RCAE-2025](https://www.rcae.net/index.html).
 - *2025.10*: 😁 I will chair a special session at [**EWSHM 2026**](https://www.ewshm2026.com/) alongside Dr. Yifu Lan, Prof. Abdollah Malekjafarian, Prof. Yong Xia, and Prof. Eleni Chatzi. We warmly invite you to join us in Toulouse, France.
@@ -11,7 +13,7 @@
 - *2025.03*: 🎉 **Physical-Constrained FiberNet** on strain distributions interpretation, collaborated with Xuanyi Lu and Shenghan Zhang, has been published in *Automation in Construction*.
 - *2025.02*: 🎉 One work collaborated with Tongji University on steel fatigue cracks detection 
 using geometric computer vision technology has been published in *Structural Control and Health Monitoring*.
-- *2025.01*: 😁 I have been honored with the title of **Outstanding Reviewer for *IEEE TIM***.
+- *2025.01*: 😁 I'm deeply honored to receive the  **Outstanding Reviewer for *IEEE TIM***.
 - *2024.12*: 🎉 **Weakly-aligned Cross-modal Learning Framework** for subsurface defect segmentation on building façades has been accepted for publication in *Automation in Construction*.
 - *2024.09*: 📖 I am honored to give a guest lecture again on **Machine Learning in Structural Sensing and Health Monitoring**.
 - *2024.06*: 😁 I will exhibit my work with Prof. Zhang, Dr. Mishra and Prof. Yuen on subsurface defect segmentation in EWSHM 2024.

@@ -24,6 +24,12 @@
 
 - Associate Editor: [**IEEE Transactions on Instrumentation and Measurement**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (2024-)
 
+**Conference**
+
+- Regional Chair for Hong Kong: [**RCAE 2026**](https://www.rcae.net/index.html)
+- Publication Chair: [**ICMIE 2026**](https://www.icmie.org/)
+- Technical Committee: [**ICMIE 2025**](https://www.icmie.org/)
+- Special Session Chairs: [**ICGNC 2026**](https://icgnc.buaa.edu.cn/); [**EWSHM 2026**](https://www.ewshm2026.com/)
 
  **Journal Reviewer**
 - *Journal of Computing in Civil Engineering*

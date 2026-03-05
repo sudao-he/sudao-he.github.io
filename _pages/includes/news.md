@@ -1,4 +1,9 @@
 # 🔥 News
+- *2026.03*: 🎉 I’m honored to serve as the **Regional Chair for Hong Kong** at [**RCAE 2026**](https://www.rcae.net/index.html). We warmly welcome you to join us in Baoding, China.
+- *2026.03*: 🎉 Proud to serve as the **Publication Chair** for [**ICMIE 2026**](https://www.icmie.org/). We warmly invite you to join us in Hangzhou, China.
+- *2026.01*: 🎉 **StrainNet** for reconstructing host matrix strain, collaborated with Xuanyi Lu and Shenghan Zhang, has been published in *Engineering Structures*.
+- *2026.01*: 😁 I will chair a special session at [**ICGNC 2026**](https://icgnc.buaa.edu.cn/) alongside Dr. Jiahuan Hu, Dr Mengyu Ding, Dr Chao Yang and Dr Liangdong Wen. 
+  <br> ([**SS 83**: Resilient Navigation & Cooperative Control for Unmanned Systems under Challenging Environments](https://icgnc.buaa.edu.cn/Call_for_Invited_Sessions.htm))
 - *2026.01*: 🎊 I'm deeply honored to receive the **Outstanding Associate Editor for *IEEE TIM***.
 - *2026.01*: 😁 I'm deeply honored to receive the **Outstanding Reviewer for *IEEE TIM***.
 - *2025.12*: 🎉 **Layered Bilateral Feature Fusion Network** on efficient RGB-IR fusion for building facade inspection has been published in *Advanced Engineering Informatics*.

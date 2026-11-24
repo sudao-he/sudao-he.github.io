@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HE Sudao (何苏道) - Homepage"
-description              : "Postdoctoral Fellow in the Department of Civil and Environmental Engineering at Hong Kong University of Science and Technology. Focusing on Digital Twin, Structural Health Monitoring and Fault Diagnosis"
+description              : "Postdoctoral Fellow in the Department of Civil and Environmental Engineering at The Hong Kong Polytechnic University."
 repository               : "sudao-he/sudao-he.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sudao HE"
   avatar           : "images/photo_samll.png"
-  bio              : "Hong Kong University of Science and Technology"
+  bio              : "The Hong Kong Polytechnic University"
   location         : "Hong Kong SAR, CHINA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"
-  email            : "hesudao@ust.hk"
+  email            : "sudao.he@polyu.edu.hk"
   researchgate     :  "https://www.researchgate.net/profile/Sudao-He"
   uri              :
   bitbucket        :

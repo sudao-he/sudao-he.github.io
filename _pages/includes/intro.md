@@ -1,6 +1,7 @@
 I am currently a Postdoctoral Fellow in the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU). 
 I am fortunate to work with Prof. [You DONG](https://www.polyu.edu.hk/cee/people/academic-staff/dr-you-dong/) since Nov. 2026. 
 
+Throughout my academic journey, I have been fortunate to learn from and work with inspiring mentors:
 - **Postdoctoral Fellow**, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) <img src='./images/ust.png' style='height: 1.5em;'>. Advisor: Prof. [Shenghan ZHANG](https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan).
 
 - **Postdoctoral Research Associate**, [PolyU](https://www.polyu.edu.hk/)  <img src='./images/polyu.png' style='height: 1.5em;'> & [National Rail Transit Electrification and Automation Engineering Technology Research Center (Hong Kong Branch)](https://www.polyu.edu.hk/cnerc-rail). Advisor: Prof. [Yi-Qing NI](https://www.polyu.edu.hk/cee/~yqni/).

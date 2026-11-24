@@ -14,6 +14,12 @@
 </div>
 
 # 🤝 Experience
+- *2026.11 - present*, **Postdoctoral Fellow** at The Hong Kong Polytechnic University.
+
+- *2024.06 - present*, **Associate Editor** - ***IEEE Trans. Instrum. Meas.***
+
+- *2023.09 - 2026.11*, **Postdoctoral Fellow** at The Hong Kong University of Science and Technology.
+
 - *2023.03 - 2023.08*, **Postdoctoral Research Associate** at National Rail Transit Electrification and Automation Engineering Technology Research Center (Hong Kong Branch), The Hong Kong Polytechnic University, Hong Kong SAR.
 
 - *Till now*, I serve as a **reviewer** in many journals, including *IEEE Transactions on Neural Networks and Learning Systems*, *IEEE Transactions on Instrumentation and Measurement*, *Journal of Vibration and Control*, *IEEE/CAA Journal of Automatica Sinica* and *ISA Transcations*.
